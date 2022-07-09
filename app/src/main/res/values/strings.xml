@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">原神切换器</string>
+    <string name="GenshinVersion">当前原神版本:</string>
+    <string name="SwitchVersion">切换</string>
+    <string name="NetworkBooster">网游加速器:</string>
+    <string name="SelectBooster">选择网游加速器</string>
+    <string name="StartBooster">启动加速器</string>
+    <string name="StartGenshin">启动原神</string>
+    <string name="init">正在启动原神切换器...</string>
+    <string name="SelectKeptVersion">找到不止一个原神数据文件夹，选择保留的那个。</string>
+    <string name="SelectTargetVersion">选择要切换目标</string>
+    <string name="AboutApp">关于这个应用</string>
+    <string name="Reload">重新检测原神信息</string>
+    <string name="grantBtnText">为Android/Data文件夹授权</string>
+    <string name="AboutInfo">
+        原神切换器: 让不同版本的原神共享同一份游戏数据，以减少手机存储空间的占用。\n
+        本软件不会使用网络连接，软件运行时仅收集游戏相关信息，不会收集其他隐私信息并上传，请放心使用！\n
+        项目链接: <a href="https://github.com/jestyf/GenshinSwitcher">Github</a>  <a href="https://gitee.com/yfj1/genshin-switcher">Gitee</a>\n
+        如果你认为这个工具很有用，可以<a href="https://gitee.com/yfj1/genshin-switcher#支持开发者">支持开发者</a>\n
+        此项目使用GPL开源协议
+    </string>
+</resources>
